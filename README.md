@@ -3,6 +3,8 @@
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/48079913/99621185-3ce06f80-29f5-11eb-8190-f318976a14ad.gif"  width="400" />
 
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=wanghngleee.wanghngleee)
+
 ## I'm a Lifelong learner, Developer, and Designer 🥳
 
 - 🌱  I’m currently learning Electron and Azure 
@@ -17,6 +19,7 @@
 [<img align="left" alt="leeeinfo.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="wanghongli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="houngleee | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 <br />
 
