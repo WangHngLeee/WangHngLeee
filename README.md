@@ -5,7 +5,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wanghngleee.wanghngleee)
 
-🚀 I'm a Software Engineer and currently study MSCS @ [NCSU](https://www.ncsu.edu).
+🚀 A Software Engineer & MSCS Student @ [NCSU](https://www.ncsu.edu).
 
 Beside's programming, I enjoy eating food and traveling.
 
