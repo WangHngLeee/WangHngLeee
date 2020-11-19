@@ -3,9 +3,8 @@
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/48079913/99621185-3ce06f80-29f5-11eb-8190-f318976a14ad.gif"  width="400" />
 
 
-## I'm a Lifelong learner, Developer, and Designer !!
+## I'm a Lifelong learner, Developer, and Designer 🥳
 
-- 
 - 🌱  I’m currently learning Electron and Azure 
 - 👯  I’m looking to collaborate with other brilliant creators😉
 - 💬 Ask me about anything, I'm happy to help!
@@ -50,7 +49,7 @@
 
 </details>
 
-<br/>
+
 <details>
   <summary>:zap: Most Used Language</summary>
 
