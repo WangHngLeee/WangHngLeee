@@ -1,4 +1,4 @@
-### Hi there, I'm Hongli <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm HomLee <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/48079913/99621185-3ce06f80-29f5-11eb-8190-f318976a14ad.gif"  width="400" />
 
