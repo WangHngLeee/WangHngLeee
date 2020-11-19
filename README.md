@@ -5,8 +5,12 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wanghngleee.wanghngleee)
 
-## I'm a Lifelong learner, Developer, and Designer 🥳
+🚀 I'm a Software Engineer and currently study MSCS @ [NCSU](https://www.ncsu.edu).
 
+Beside's programming, I enjoy eating food and traveling.
+
+## I'm a Lifelong learner, Developer, and Designer 🥳
+- ✍ You can find my projects here [portfolio](https://www.leeeinfo.com)
 - 🌱  I’m currently learning Electron and Azure 
 - 👯  I’m looking to collaborate with other brilliant creators😉
 - 💬 Ask me about anything, I'm happy to help!
