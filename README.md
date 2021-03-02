@@ -7,7 +7,7 @@
 
 🚀 A Software Engineer & MSCS Student @ [NCSU](https://www.ncsu.edu).
 
-Beside's programming, I enjoy eating food and traveling.
+Beside's programming, I enjoy food and traveling.
 
 ## I'm a Lifelong learner, Developer, and Designer 🥳
 - ✍ You can find my projects here [portfolio](https://www.leeeinfo.com)
