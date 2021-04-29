@@ -2,7 +2,7 @@
 
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/48079913/99621185-3ce06f80-29f5-11eb-8190-f318976a14ad.gif"  width="400" />
 
-
+![visitors](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=wanghngleee&repo=wanghngleee&countColorcountColor&countColor=%237B1E7A)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wanghngleee.wanghngleee)
 
 🚀 A Software Engineer & MSCS Student @ [NCSU](https://www.ncsu.edu).
